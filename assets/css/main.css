@@ -1273,3 +1273,10 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+#header .language-switcher {
+  position: absolute;
+  bottom: 15px;
+  width: 90%;
+  text-align: center;
+}
